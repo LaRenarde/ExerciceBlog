@@ -1,0 +1,12 @@
+main{
+    width : 60%;
+    margin: auto;
+    padding: 2rem;
+}
+.fa-plus-square{
+    color: green;
+    font-size: 2rem;
+}
+.custom-file{
+    height: auto;
+}
